@@ -106,4 +106,5 @@
 			<resource resourceType="PROJECT" workspacePath="/SPI_MasterFIFOMode"/>
 		</configuration>
 	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>

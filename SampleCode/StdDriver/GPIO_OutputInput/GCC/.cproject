@@ -106,4 +106,5 @@
 			<resource resourceType="PROJECT" workspacePath="/GPIO_OutputInput"/>
 		</configuration>
 	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>
